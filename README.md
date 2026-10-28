@@ -17,3 +17,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+## Project Description
+A Python application that calculates logistics shipping rates.
